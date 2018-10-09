@@ -1,52 +1,49 @@
 {
-    "[javascript]": {
-        "editor.formatOnSave": false
-    },
-    "cSpell.enabledLanguageIds": [
-        "markdown",
-        "plaintext",
-        "pub",
-        "text",
-        "yml"
-    ],
-    "editor.colorDecorators": false,
-    "editor.cursorBlinking": "smooth",
-    "editor.fontFamily": "IBM Plex Mono, Menlo, Monaco, 'Courier New', monospace",
-    "editor.fontLigatures": true,
-    "editor.fontSize": 15,
-    "editor.formatOnSave": true,
-    "editor.hover.delay": 1000,
-    "editor.minimap.showSlider": "always",
-    "editor.multiCursorModifier": "ctrlCmd",
-    "editor.rulers": [
-        80
-    ],
-    "editor.snippetSuggestions": "top",
-    "editor.tabSize": 2,
-    "emmet.includeLanguages": {
-        "javascript": "javascriptreact"
-    },
-    "eslint.alwaysShowStatus": true,
-    "eslint.autoFixOnSave": true,
-    "explorer.confirmDragAndDrop": false,
-    "files.autoSave": "onFocusChange",
-    "files.defaultLanguage": "markdown",
-    "git.autofetch": true,
-    "gitlens.advanced.messages": {
-        "suppressShowKeyBindingsNotice": true
-    },
-    "gitlens.blame.heatmap.enabled": false,
-    "gitlens.blame.highlight.enabled": false,
-    "gitlens.currentLine.enabled": false,
-    "gitlens.hovers.currentLine.over": "line",
-    "gitlens.hovers.enabled": false,
-    "gitlens.keymap": "alternate",
-    "gitlens.mode.statusBar.enabled": false,
-    "search.location": "panel",
-    "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
-    "window.zoomLevel": 0,
-    "workbench.colorTheme": "Cobalt2",
-    "workbench.editor.enablePreviewFromQuickOpen": false,
-    "workbench.editor.tabSizing": "shrink",
-    "workbench.startupEditor": "newUntitledFile"
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "cSpell.enabledLanguageIds": ["markdown", "plaintext", "pub", "text", "yml"],
+  "editor.colorDecorators": false,
+  "editor.cursorBlinking": "smooth",
+  "editor.fontFamily": "IBM Plex Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "editor.formatOnSave": true,
+  "editor.hover.delay": 1000,
+  "editor.minimap.showSlider": "always",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.rulers": [80],
+  "editor.snippetSuggestions": "top",
+  "editor.tabSize": 2,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "eslint.alwaysShowStatus": true,
+  "eslint.autoFixOnSave": true,
+  "explorer.confirmDragAndDrop": false,
+  "files.autoSave": "onFocusChange",
+  "files.defaultLanguage": "markdown",
+  "git.autofetch": true,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "gitlens.blame.heatmap.enabled": false,
+  "gitlens.blame.highlight.enabled": false,
+  "gitlens.currentLine.enabled": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.hovers.enabled": false,
+  "gitlens.keymap": "alternate",
+  "gitlens.mode.statusBar.enabled": false,
+  "search.location": "panel",
+  "search.collapseResults": "alwaysCollapse",
+  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Cobalt2",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.startupEditor": "newUntitledFile",
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.largeFileOptimizations": false,
+  "git.confirmSync": false
 }
